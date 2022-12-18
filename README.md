@@ -8,5 +8,5 @@ Create dashboard.
 
 # Tools Used
 1. Excel for cleaning
-2. Pyth0n for further cleaning
+2. Python for further cleaning
 3. Tableau for Visualizaiton
